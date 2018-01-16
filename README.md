@@ -1,6 +1,6 @@
 # Traffic-Signals-Tensorflow
 
-This IPython notebook takes the data from Belgium Traffic Signs datasets to make use of NN using TensorFlow package.
+This IPython notebook takes the data from Belgium Traffic Signs datasets to make use of NN using TensorFlow package and classify the Signs accordingly.
 The Link for the dataset
 http://btsd.ethz.ch/shareddata/
 
